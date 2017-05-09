@@ -1,0 +1,147 @@
+python runprog.py
+FIX 1 | Perf:   153.99
+FIX 1 | Perf:   148.65
+FIX 1 | Perf:   139.65
+FIX 1 | Perf:   100.49
+FIX 1 | Perf:   128.73
+FIX 1 | Perf:   106.56
+FIX 1 | Perf:   143.11
+FIX 1 | Perf:   151.21
+FIX 1 | Perf:   140.93
+FIX 1 | Perf:   140.71
+FIX 1 | Perf:   125.88
+FIX 1 | Perf:   139.52
+FIX 1 | Perf:   120.56
+FIX 1 | Perf:   137.24
+FIX 1 | Perf:   135.42
+FIX 1 | Perf:   153.80
+FIX 1 | Perf:   210.00
+FIX 1 | Perf:   211.64
+FIX 1 | Perf:   225.80
+FIX 1 | Perf:   225.59
+FIX 1 | Perf:   220.26
+FIX 1 | Perf:   244.66
+FIX 1 | Perf:   245.35
+FIX 1 | Perf:   295.35
+FIX 1 | Perf:   269.99
+FIX 1 | Perf:   269.99
+FIX 1 | Perf:   241.11
+FIX 1 | Perf:   268.04
+FIX 1 | Perf:   240.85
+FIX 1 | Perf:   273.58
+FIX 1 | Perf:   269.95
+FIX 1 | Perf:   294.35
+FIX 1 | Perf:   139.35
+FIX 1 | Perf:   130.27
+FIX 1 | Perf:   214.45
+FIX 1 | Perf:   151.19
+FIX 1 | Perf:   127.50
+FIX 1 | Perf:   164.76
+FIX 1 | Perf:   152.18
+FIX 1 | Perf:   269.84
+FIX 1 | Perf:   237.37
+FIX 1 | Perf:   265.01
+FIX 1 | Perf:   254.27
+FIX 1 | Perf:   289.06
+FIX 1 | Perf:   215.38
+FIX 1 | Perf:   259.91
+FIX 1 | Perf:   288.85
+FIX 1 | Perf:   360.00
+thread: 1	numpad: 0
+
+thread: 1	numpad: 1
+
+thread: 1	numpad: 2
+
+thread: 1	numpad: 3
+
+thread: 1	numpad: 4
+
+thread: 1	numpad: 5
+
+thread: 1	numpad: 6
+
+thread: 1	numpad: 7
+
+thread: 1	numpad: 8
+
+thread: 1	numpad: 9
+
+thread: 1	numpad: 10
+
+thread: 1	numpad: 11
+
+thread: 1	numpad: 12
+
+thread: 1	numpad: 13
+
+thread: 1	numpad: 14
+
+thread: 1	numpad: 15
+
+thread: 2	numpad: 0
+
+thread: 2	numpad: 1
+
+thread: 2	numpad: 2
+
+thread: 2	numpad: 3
+
+thread: 2	numpad: 4
+
+thread: 2	numpad: 5
+
+thread: 2	numpad: 6
+
+thread: 2	numpad: 7
+
+thread: 2	numpad: 8
+
+thread: 2	numpad: 9
+
+thread: 2	numpad: 10
+
+thread: 2	numpad: 11
+
+thread: 2	numpad: 12
+
+thread: 2	numpad: 13
+
+thread: 2	numpad: 14
+
+thread: 2	numpad: 15
+
+thread: 4	numpad: 0
+
+thread: 4	numpad: 1
+
+thread: 4	numpad: 2
+
+thread: 4	numpad: 3
+
+thread: 4	numpad: 4
+
+thread: 4	numpad: 5
+
+thread: 4	numpad: 6
+
+thread: 4	numpad: 7
+
+thread: 4	numpad: 8
+
+thread: 4	numpad: 9
+
+thread: 4	numpad: 10
+
+thread: 4	numpad: 11
+
+thread: 4	numpad: 12
+
+thread: 4	numpad: 13
+
+thread: 4	numpad: 14
+
+thread: 4	numpad: 15
+
+prog
+FIX 1 | Perf:   589.67
